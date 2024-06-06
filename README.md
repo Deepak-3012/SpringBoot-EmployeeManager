@@ -1,8 +1,11 @@
 # SpringBoot-EmployeeManager
 
 SpringBoot-EmployeeManager is a CRUD (Create, Read, Update, Delete) application for managing employee records. This project is built with Spring Boot and provides RESTful APIs for managing employees.
-
-
+<br>
+## API Testing
+![postman](https://github.com/Deepak-3012/SpringBoot-EmployeeManager/blob/main/Images/postmanimg.png)<br>
+## Database Testing
+![db](https://github.com/Deepak-3012/SpringBoot-EmployeeManager/blob/main/Images/dbimg.png)
 
 
 ## Features
